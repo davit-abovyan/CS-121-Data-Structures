@@ -24,3 +24,4 @@ Rate a professor:
   2. Select class (you can only rate a Professor if you took his/her class)
   3. Rate from 1 to 5
   4. Explain
+  5. Iterate over step 3 and 4 for rating of each category (content, responsiveness, etc)
